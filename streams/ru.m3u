@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sochi24HD.ru" status="online",Сочи 24 (720p)
+https://serv30.vintera.tv/sochi/sochi24/playlist.m3u8
+#EXTINF:-1 tvg-id="SochiLiveHD.ru" status="online",Sochi Live HD (720p) [Not 24/7]
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRPlaneta.ru" status="online" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",РТР-Планета (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s15/index.m3u8
